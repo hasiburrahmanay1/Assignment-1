@@ -696,4 +696,111 @@ height:60px;
 margin: 0px;
 }
 /* Current target ends here */
+/* Footer top starts here */
+.footerTop{
+position: absolute;
+width: 1216px;
+height: 314px;
+margin-left: 160px;
+margin-right: 160px;
+margin-top: 4069px;
+margin-bottom: 191px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 68px 51px;
+background-image: url('Assets/handshake.jpg');
+background-size: cover;
+background-repeat: no repeat;
+background-position: center;
+}
+.footerTopHolder{
+position: static;
+width: 1114px;
+height: 198px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+}
+.footerTopDes{
+position: static;
+width: 779px;
+height: 111px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+}
+.footerTopDes h3{
+position: static;
+width: 245px;
+height: 38px;
+display: flex;
+margin-top:0px;
+margin-bottom: 17px;
+margin-right: 267px;
+margin-left: 267px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+color: rgb(0, 0, 255);
+font-family: Azeret Mono;
+font-size: 34px;
+font-weight: 700;
+line-height: 38px;
+text-align: center;
+}
+.footerTopDes p{
+position: static;
+width: 606px;
+height: 52px;
+margin-top: 17px;
+margin-bottom: 26px;
+margin-right: 66px;
+margin-left: 66px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+opacity: 0.7;
+color: rgb(0, 0, 255);
+font-family: Azeret Mono;
+font-size: 17px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+}
+input[type="text"]{
+position: static;
+width: 285px;
+height: 21px;
+display: inline-block;
+margin-bottom: 0px;
+margin-left: 192px;
+margin-right: 2px;
+margin-top: 98px;
+padding: 20px 21px;
+box-sizing: border-box;
+border: 1px solid rgba(13, 19, 33, 0.15);
+border-radius: 8px;
+background: rgb(255, 255, 255);
+}
+input[type="submit"]{
+position: static;
+width: 100px;
+height: 30px;
+margin-bottom: 0px;
+margin-top: 98px;
+margin-left: 2px;
+margin-top: 98px;
+display: inline-block;
+padding: 18px 21px 18px; 21px;
+}
 
+/* Footer top ends here */
