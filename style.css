@@ -804,3 +804,29 @@ padding: 18px 21px 18px; 21px;
 }
 
 /* Footer top ends here */
+/* Footer starts here */
+.footerDes{
+position: static;
+width: 416px;
+height: 26px;
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+}
+footer{
+position: absolute;
+width: 1140px;
+height: 36px;
+margin-top: 4550px;
+margin-left: 160px;
+margin-right: 160px;
+margin-bottom: 34px;
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 0px;
+}
+/* Footer ends here */
