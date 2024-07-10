@@ -492,6 +492,7 @@ text-align: center;
 position: static;
 width: 1216px;
 height: 655px;
+margin-bottom: 159px;
 display: flex;
 flex-direction: column;
 justify-content: center;
@@ -502,3 +503,197 @@ border: 1px solid rgba(13, 19, 33, 0.2);
 border-radius: 17px;
 }
 /* Inspiration part ends here */
+/* Current target starts here */
+.curTarget{
+position: absolute;
+width: 1216px;
+height: 494px;
+margin-top: 3460px;
+margin-bottom: 118px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+}
+.myCurTarget{
+position: static;
+width: 1009px;
+height: 123px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+}
+.myCurTarget h3{
+position: static;
+width: 909px;
+height: 42px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+padding: 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 34px;
+font-weight: 800;
+line-height: 39px;
+text-align: center;
+}
+.myCurTarget p{
+position: static;
+width: 852px;
+height: 52px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 17px;
+font-weight: 400;
+line-height: 28px;
+text-align: center;
+}
+.cardHolder{
+position: static;
+width: 1216px;
+height: 320px;
+margin-top: 51px;
+margin-left: 160px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+}
+.card4{
+position: static;
+width: 388px;
+height: 320px;
+margin-right: 26px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 42px;
+border-radius: 17px;
+background: rgba(255, 76, 30, 0.05);
+}
+.card5{
+    /* Frame 16 */
+position: static;
+width: 388px;
+height: 320px;
+margin-right: 26px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 42px;
+border-radius: 17px;
+background: rgba(0, 76, 232, 0.05);
+}
+.html{
+position: static;
+width: 303px;
+height: 235px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+}
+.css{
+position: static;
+width: 303px;
+height: 235px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+}
+.javascript{
+position: static;
+width: 303px;
+height: 235px;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+}
+.html img{
+position: static;
+width: 56px;
+height: 56px;
+}
+.html h3,.css h3,.javascript h3{
+position: static;
+width: 303px;
+height: 38px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 26px;
+font-weight: 800;
+line-height: 38px;
+text-align: left;
+}
+.html p,.css p,.javascript p{
+position: static;
+width: 303px;
+height: 55px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+opacity: 0.7;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 17px;
+font-weight: 400;
+line-height: 28px;
+text-align: left;
+}
+.html a,.css a,.javascript a{
+position: static;
+width: 303px;
+height: 21px;
+margin-top: 26px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+padding: 0px;
+color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 17px;
+font-weight: 700;
+line-height: 20px;
+text-align: left;
+text-decoration-line: underline;
+}
+.css img{
+position: static;
+width: 60px;
+height: 60px;
+}
+.javascript img{
+position: static;
+width: 60px;
+height:60px;
+margin: 0px;
+}
+/* Current target ends here */
+
